@@ -4,7 +4,7 @@
     --blue: #00A2FF;
     --body1-regular: 400 1rem/1.5rem Poppins; 
     --body1-bold: 700 1rem/1.5rem Poppins;  
-    --body2-bold: 700 1rem/.5rem Poppins;  
+    --body2-bold: 700 1rem/.8rem Poppins;  
     --title: 700 1rem/2.5rem Poppins; 
     }
     
@@ -53,7 +53,7 @@
     color: var(--white);
     font: var(--body2-bold);
     border: none;
-    width: 174px;
+    width: 144px;
     height: 40px;
     cursor: pointer;
   }
